@@ -82,6 +82,23 @@
         "requiredTech": "Iron Working"
 },
 {
+        "name": "Make Weapons II",
+        "hurryCostModifier": 25,
+        "gold": 2
+        "uniques": ["New [Armored] units start with [30] Experience [in this city]", "Consumes [1] [Iron]"],
+        "requiredTech": "Military Science"
+},
+{
+        "name": "Efficient Iron Mining",
+        "hurryCostModifier": 25,
+        "gold": 3
+        "uniques": [
+                "Must have an owned [Iron] within [3] tiles",
+                "Provides [5] [Iron]"
+        ],
+        "requiredTech": "Military Science"
+},
+{
         "name": "Steel Manufactury",
         "hurryCostModifier": 25,
         "production": 5
