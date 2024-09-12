@@ -91,9 +91,10 @@
 {
         "name": "Efficient Iron Mining",
         "hurryCostModifier": 25,
-        "gold": 3
+        "maintenance": 2,
         "uniques": [
                 "Must have an owned [Iron] within [3] tiles",
+                "[+10]% [Production] [in this city]",
                 "Provides [5] [Iron]"
         ],
         "requiredTech": "Military Science"
