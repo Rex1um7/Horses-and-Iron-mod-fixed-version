@@ -95,7 +95,7 @@
         "uniques": [
                 "Must have an owned [Iron] within [3] tiles",
                 "[+10]% [Production] [in this city]",
-                "Provides [5] [Iron]"
+                "Provides [7] [Iron]"
         ],
         "requiredTech": "Military Science"
 },
