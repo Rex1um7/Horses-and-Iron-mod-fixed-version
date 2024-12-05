@@ -174,7 +174,7 @@
         "uniques": [
                 "Consumes [1] [Iron]", 
                 "[+2 Production] from [Mine] tiles [in this city]",
-                "[+1 Production] from [Strategic] tiles [in this city]",
+                "[+1 Production] from [Strategic resource] tiles [in this city]",
         ],
         "requiredTech": "Metallurgy"
 },
