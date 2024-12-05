@@ -15,6 +15,7 @@
         "name": "Hunt Horses",
         "hurryCostModifier": 25,
         "cost": 60,
+        "food": 1,
         "uniques": [
                 "[+10]% [Food] [in this city]", 
                 "Consumes [1] [Horses]"
