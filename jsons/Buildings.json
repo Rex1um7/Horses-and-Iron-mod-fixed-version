@@ -71,7 +71,7 @@
 {
         "name": "Horse Trainer",
         "hurryCostModifier": 25,
-        "cost": 150,
+        "cost": 125,
         "uniques": [
                 "New [Mounted] units start with [30] Experience [in this city]", 
                 "Consumes [1] [Horses]"
@@ -88,6 +88,7 @@
 {
         "name": "Horse Meat Factory",
         "hurryCostModifier": 25,
+        "cost": 450,
         "uniques": [
                 "[+1 Food] per [2] population [in this city]", 
                 "[+15]% [Food] [in this city]", 
@@ -98,6 +99,7 @@
 {
         "name": "Horse Genetic Testing",
         "hurryCostModifier": 25,
+        "cost": 450,
         "uniques": [
                 "[+1 Food] per [5] population [in this city]", 
                 "[+15]% [Science] [in this city]", 
@@ -109,6 +111,7 @@
 {
         "name": "Make Tools",
         "hurryCostModifier": 25,
+        "cost": 100,
         "production": 1,
         "science": 1,
         "uniques": [
@@ -121,6 +124,7 @@
 {
         "name": "Make Weapons",
         "hurryCostModifier": 25,
+        "cost": 100,
         "production": 1,
         "uniques": [
                 "New [Armored] units start with [30] Experience [in this city]", 
@@ -131,6 +135,7 @@
 {
         "name": "Make Weapons II",
         "hurryCostModifier": 25,
+        "cost": 200,
         "production": 1,
         "uniques": [
                 "New [Armored] units start with [30] Experience [in this city]", 
@@ -141,6 +146,7 @@
 {
         "name": "Efficient Iron Mining",
         "hurryCostModifier": 25,
+        "cost": 250,
         "maintenance": 3,
         "production": 1,
         "uniques": [
@@ -153,6 +159,7 @@
 {
         "name": "Steel Manufactury",
         "hurryCostModifier": 25,
+        "cost": 250,
         "production": 5,
         "uniques": ["Consumes [1] [Iron]"],
         "requiredTech": "Metallurgy"
@@ -160,6 +167,7 @@
 {
         "name": "Alloy Steel Manufactury",
         "hurryCostModifier": 25,
+        "cost": 250,
         "maintenance": 3,
         "production": 3,
         "uniques": [
@@ -173,6 +181,7 @@
 {
         "name": "Resource Generator",
         "hurryCostModifier": 100,
+        "cost": 2000,
         "food": 10,
         "uniques": [
                 "[+10]% [Food] [in this city]", 
