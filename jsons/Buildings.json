@@ -44,7 +44,7 @@
                 "[+5]% [Food] [in this city]", 
                 "Consumes [1] [Horses]", 
                 "[+1 Food, +1 Production, +1 Gold] from [Farm] tiles [in this city]",
-                "[-1 Food, -1 Production, -1 Gold] from [resource] tiles <without [Wheat]> <hidden from users>",
+                "[-1 Food, -1 Production, -1 Gold] from [resource] tiles <without [Wheat]>",
         ],
         "requiredTech": "The Wheel"
 },
