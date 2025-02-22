@@ -65,7 +65,7 @@
         "hurryCostModifier": 25,
         "cost": 100,
         "uniques": [
-                "New [Mounted] units start with [30] Experience [in this city]", 
+                "New [Mounted] units start with [30] XP [in this city]", 
                 "Consumes [1] [Horses]"
         ],
         "requiredTech": "Horseback Riding"
@@ -75,7 +75,7 @@
         "hurryCostModifier": 25,
         "cost": 125,
         "uniques": [
-                "New [Mounted] units start with [30] Experience [in this city]", 
+                "New [Mounted] units start with [30] XP [in this city]", 
                 "Consumes [1] [Horses]"
         ],
         "requiredTech": "Chivalry"
@@ -129,7 +129,7 @@
         "cost": 100,
         "production": 1,
         "uniques": [
-                "New [Armored] units start with [30] Experience [in this city]", 
+                "New [Armored] units start with [30] XP [in this city]", 
                 "Consumes [1] [Iron]"
         ],
         "requiredTech": "Iron Working"
@@ -140,7 +140,7 @@
         "cost": 200,
         "production": 1,
         "uniques": [
-                "New [Armored] units start with [30] Experience [in this city]", 
+                "New [Armored] units start with [30] XP [in this city]", 
                 "Consumes [1] [Iron]"
         ],
         "requiredTech": "Military Science"
