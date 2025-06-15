@@ -6,7 +6,7 @@
         "cost": 75,
         "uniques": [
                 "[+1 Gold] per [2] population [in this city]", 
-                "[+15]% [Gold] [in this city]", 
+                "[+10]% [Gold] [in this city]", 
                 "Consumes [1] [Horses]"
         ],
         "requiredTech": "Animal Husbandry"
@@ -14,8 +14,8 @@
 {
         "name": "Hunt Horses",
         "hurryCostModifier": 25,
-        "cost": 60,
-        "food": 1,
+        "cost": 75,
+        "food": 2,
         "uniques": [
                 "[+10]% [Food] [in this city]", 
                 "Consumes [1] [Horses]"
@@ -58,8 +58,8 @@
 },
 {
         "name": "Use Horses for Herding",
-        "hurryCostModifier": 25,
-        "cost": 75,
+        "hurryCostModifier": 0,
+        "cost": 111,
         "food": 2,
         "uniques": [
                 "[+1 Food] per [3] population [in this city]", 
@@ -90,9 +90,11 @@
 },
 {
         "name": "Horse Breeding",
-        "hurryCostModifier": 25,
+        "hurryCostModifier": 0,
         "cost": 1,
-        "uniques": ["Provides [3] [Horses]"],
+        "uniques": [
+                "Provides [3] [Horses]",
+        ],
         "requiredTech": "Chivalry"
 },
 {
@@ -121,7 +123,7 @@
 {
         "name": "Make Tools",
         "hurryCostModifier": 25,
-        "cost": 100,
+        "cost": 125,
         "production": 1,
         "science": 1,
         "uniques": [
@@ -134,7 +136,7 @@
 {
         "name": "Make Weapons",
         "hurryCostModifier": 25,
-        "cost": 100,
+        "cost": 125,
         "production": 1,
         "uniques": [
                 "New [Armored] units start with [30] XP [in this city]", 
