@@ -36,15 +36,23 @@
 },
 {
         "name": "Horse Pulled Plow",
-        "hurryCostModifier": 25,
-        "cost": 75,
-        "happiness": 2,
+        "hurryCostModifier": 0,
+        "cost": 111,
+        "food": 1,
+        "gold": 1,
+        "happiness": 1,
         "uniques": [
-                "[+1 Food] per [3] population [in this city]", 
-                "[+5]% [Food] [in this city]", 
+                "[+1 Food] per [3] population [in this city]",  
                 "Consumes [1] [Horses]", 
-                "[+1 Food, +1 Production, +1 Gold] from [Farm] tiles [in this city]",
-                "[-1 Food, -1 Production, -1 Gold] from [resource] tiles [in this city] <in [Farm] tiles> <in tiles without [Wheat]>",
+                "[+1 Food, +1 Production] from [Farm] tiles [in this city]",
+                "[+3 Food, +2 Production] from [Wheat] tiles [in this city] <in [Farm] tiles> <hidden from users>",
+                //rekomod
+                "[+3 Food, +2 Production] from [Maize] tiles [in this city] <in [Farm] tiles> <hidden from users>",
+                "[+3 Food, +2 Production] from [Corn] tiles [in this city] <in [Farm] tiles> <hidden from users>",
+                //resourceplus
+                "[+3 Food, +2 Production] from [Potato] tiles [in this city] <in [Farm] tiles> <hidden from users>",
+                "[+3 Food, +2 Production] from [Rice] tiles [in this city] <in [Farm] tiles> <hidden from users>",
+                "[-2 Food, -2 Production] from [Bonus resource] tiles [in this city] <in [Farm] tiles>",
         ],
         "requiredTech": "The Wheel"
 },
